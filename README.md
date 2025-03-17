@@ -15,7 +15,7 @@
 - **JavaScript** ⚡
 
 ## 🎮 Cómo Jugar
-1. 🔗 Abre el siguiente enlace en tu navegador: [Mienlace.com](Mienlace.com)
+1. 🔗 Abre el siguiente enlace en tu navegador: https://tinaciro.github.io/challenge_amigo_secreto/
 2. 🖊️ Ingresa los nombres de los participantes.
 3. 🎲 Haz clic en el botón para seleccionar un ganador.
 4. 🎉 Disfruta del resultado y diviértete con amigos o familiares.
